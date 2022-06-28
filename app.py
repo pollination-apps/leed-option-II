@@ -1,3 +1,5 @@
+"""An app to do LEED daylight option-II analysis."""
+
 import zipfile
 import pathlib
 import json
